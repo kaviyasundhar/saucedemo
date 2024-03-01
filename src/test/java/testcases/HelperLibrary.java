@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BaseClass {
+public class HelperLibrary {
 WebDriver driver;
 	
 	@BeforeMethod
